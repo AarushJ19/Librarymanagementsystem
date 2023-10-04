@@ -4,12 +4,11 @@
 
 #include <iostream>
 #include <fstream>	//for file handling
-#include <conio.h> //to use getch()
+#include <conio.h>	 //to use getch()
 #include <stdio.h>
-// #include <process.h>
 #include <string.h>
 #include <iomanip>	//for setw() function
-#include "windows.h" //for basic file handling
+#include "windows.h"	 //for basic file handling
 #define MAX_NAME_LEN 60
 #include<stdlib.h>
 using namespace std;
